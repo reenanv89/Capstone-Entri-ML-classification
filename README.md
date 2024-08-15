@@ -1,8 +1,12 @@
 Introduction to Dataset
 
-The Financial Risk Assessment Dataset offers comprehensive insights into individual financial profiles. It encompasses demographic, financial, and behavioral data to evaluate financial risk. The dataset includes diverse columns like income, credit score, and risk rating, with deliberate imbalances and missing values to mirror real-world conditions. Objective
+The Financial Risk Assessment Dataset offers comprehensive insights into individual financial profiles. It encompasses demographic, financial, and behavioral data to evaluate financial risk. The dataset includes diverse columns like income, credit score, and risk rating, with deliberate imbalances and missing values to mirror real-world conditions.
 
-The primary objective of this project is to develop a predictive model that accurately assesses the financial risk of clients. The model should help in identifying high-risk clients, thus enabling the institution to make informed decisions regarding loans, investments, and other financial activities. Data Description
+Objective
+
+The primary objective of this project is to develop a predictive model that accurately assesses the financial risk of clients. The model should help in identifying high-risk clients, thus enabling the institution to make informed decisions regarding loans, investments, and other financial activities.
+
+Data Description
 
 The dataset includes a variety of features that may impact financial risk, such as:
 
